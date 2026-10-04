@@ -15,5 +15,6 @@
   <content>Constant.ВКМ_НоменклатураАбонентскаяПлата</content>
   <content>Constant.ВКМ_НоменклатураРаботыСпециалиста</content>
   <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
+  <content>CommonModule.ВКМ_Телеграм</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>
