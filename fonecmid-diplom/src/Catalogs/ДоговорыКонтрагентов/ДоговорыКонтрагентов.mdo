@@ -117,7 +117,7 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
-  <defaultObjectForm>Catalog.ДоговорыКонтрагентов.Form.ФормаЭлемента</defaultObjectForm>
+  <defaultObjectForm>Catalog.ДоговорыКонтрагентов.Form.ВКМ_ФормаЭлемента</defaultObjectForm>
   <defaultListForm>Catalog.ДоговорыКонтрагентов.Form.ФормаСписка</defaultListForm>
   <attributes uuid="a81d1f8d-ea75-4cec-9742-5970eceda758">
     <name>Организация</name>
@@ -237,10 +237,10 @@
     <usePurposes>MobileDevice</usePurposes>
   </forms>
   <forms uuid="064ce62e-e409-43d0-8a8b-586e336a19ef">
-    <name>ФормаЭлемента</name>
+    <name>ВКМ_ФормаЭлемента</name>
     <synonym>
       <key>ru</key>
-      <value>Форма элемента</value>
+      <value>Ворма элемента</value>
     </synonym>
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
