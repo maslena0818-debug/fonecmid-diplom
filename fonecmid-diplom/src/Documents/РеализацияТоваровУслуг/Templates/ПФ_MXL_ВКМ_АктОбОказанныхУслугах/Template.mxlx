@@ -337,6 +337,16 @@
 		<c>0</c>
 		<w>4</w>
 	</merge>
+	<merge>
+		<r>15</r>
+		<c>0</c>
+		<w>4</w>
+	</merge>
+	<merge>
+		<r>16</r>
+		<c>0</c>
+		<w>4</w>
+	</merge>
 	<namedItem xsi:type="NamedItemCells">
 		<name>Заголовок</name>
 		<area>
