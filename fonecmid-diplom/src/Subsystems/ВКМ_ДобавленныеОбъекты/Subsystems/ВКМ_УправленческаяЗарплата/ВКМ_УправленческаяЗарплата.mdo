@@ -17,5 +17,6 @@
   <content>CalculationRegister.ВКМ_ОсновныеНачисления</content>
   <content>CalculationRegister.ВКМ_Удержания</content>
   <content>CommonModule.ВКМ_ЗарплатаСервер</content>
+  <content>Document.ВКМ_НачислениеЗарплаты</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>
