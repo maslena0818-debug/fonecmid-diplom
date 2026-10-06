@@ -24,5 +24,6 @@
   <content>AccumulationRegister.ВКМ_ПлановыеОтпуска</content>
   <content>Document.ВКМ_ГрафикОтпусков</content>
   <content>Role.ВКМ_РасчетЗарплаты</content>
+  <content>Report.ВКМ_ВыработкаСпециалистов</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>
