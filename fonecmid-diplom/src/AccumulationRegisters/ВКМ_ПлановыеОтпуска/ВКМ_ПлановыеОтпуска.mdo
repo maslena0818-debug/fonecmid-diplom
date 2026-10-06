@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:AccumulationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a4e24032-1cf4-4d71-a0fe-1e1b759602c8">
+  <producedTypes>
+    <selectionType typeId="65d55d9d-c3c4-474c-b45d-9cc32918db03" valueTypeId="daf32114-4ae8-403e-93af-462146b77aeb"/>
+    <listType typeId="64caaa4a-a8b7-4b03-9169-2f37539768b0" valueTypeId="0c159090-4d23-493e-8912-ab9555af53a4"/>
+    <managerType typeId="36e12b49-c0b4-46d2-915b-58710d7d7d79" valueTypeId="a4d40b86-a2c4-4e67-886e-9afb3cc9e390"/>
+    <recordSetType typeId="67bfdae5-e23f-4c77-a46a-ed13b7c3a01e" valueTypeId="23c95724-7c03-44a2-a7a9-76dc7c4888ff"/>
+    <recordKeyType typeId="1a22b4d9-6069-4be0-bb0b-bdaf71b5b510" valueTypeId="89a91c42-4ca3-476f-ae53-2187e5de99bb"/>
+    <recordType typeId="1f4c2022-a27d-4364-b180-a4f7fe5d9ba8" valueTypeId="b559023d-7336-4e8f-9c2e-9226f115155b"/>
+  </producedTypes>
+  <name>ВКМ_ПлановыеОтпуска</name>
+  <synonym>
+    <key>ru</key>
+    <value>Плановые отпуска</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <registerType>Turnovers</registerType>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <enableTotalsSplitting>true</enableTotalsSplitting>
+  <listPresentation>
+    <key>ru</key>
+    <value>Плановые отпуска</value>
+  </listPresentation>
+  <resources uuid="13e90872-8dfa-4fe0-ac93-da9bb20f0543">
+    <name>ДнейОтпуска</name>
+    <synonym>
+      <key>ru</key>
+      <value>Дней отпуска</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>5</precision>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </resources>
+  <dimensions uuid="86e9cff1-8d33-4ac7-bfba-8bd3187d0944">
+    <name>Сотрудник</name>
+    <synonym>
+      <key>ru</key>
+      <value>Сотрудник</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Пользователи</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <useInTotals>true</useInTotals>
+  </dimensions>
+</mdclass:AccumulationRegister>

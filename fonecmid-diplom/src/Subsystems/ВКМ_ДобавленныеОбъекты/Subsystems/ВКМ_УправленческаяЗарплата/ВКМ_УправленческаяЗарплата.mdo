@@ -21,5 +21,7 @@
   <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
   <content>Document.ВКМ_НачислениеФиксированныхПремий</content>
   <content>Document.ВКМ_ВыплатаЗарплаты</content>
+  <content>AccumulationRegister.ВКМ_ПлановыеОтпуска</content>
+  <content>Document.ВКМ_ГрафикОтпусков</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>
