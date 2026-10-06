@@ -63,6 +63,17 @@
 		</right>
 	</object>
 	<object>
+		<name>Report.ВКМ_РасходЗапланированныхОтпусков</name>
+		<right>
+			<name>Use</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</name>
 		<right>
 			<name>Read</name>
@@ -215,6 +226,17 @@
 		</right>
 		<right>
 			<name>Edit</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Report.ВКМ_РасчетыССотрудниками</name>
+		<right>
+			<name>Use</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
 			<value>true</value>
 		</right>
 	</object>
