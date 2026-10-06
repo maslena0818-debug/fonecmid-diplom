@@ -19,7 +19,7 @@
   <defaultRoles>Role.АдминистраторСистемы</defaultRoles>
   <defaultRoles>Role.ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок</defaultRoles>
   <vendor>ООО Нетология</vendor>
-  <version>1.0.1.5</version>
+  <version>1.0.1.7</version>
   <reportsVariantsStorage>SettingsStorage.ХранилищеВариантовОтчетов</reportsVariantsStorage>
   <defaultReportForm>CommonForm.ФормаОтчета</defaultReportForm>
   <defaultReportVariantForm>CommonForm.ФормаВариантаОтчета</defaultReportVariantForm>
@@ -628,6 +628,7 @@
   <roles>Role.ВКМ_МассовоеСозданиеАктов</roles>
   <roles>Role.ВКМ_РасчетЗарплаты</roles>
   <roles>Role.ВКМ_ОтчетВыработкаСпециалистов</roles>
+  <roles>Role.ВКМ_ОтчетАнализВыставленныхАктов</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
   <commonTemplates>CommonTemplate.ИнструкцияКакВыполнитьНастройкуМакетаOfficeOpen</commonTemplates>
@@ -1301,6 +1302,7 @@
   <reports>Report.ВКМ_ВыработкаСпециалистов</reports>
   <reports>Report.ВКМ_РасчетыССотрудниками</reports>
   <reports>Report.ВКМ_РасходЗапланированныхОтпусков</reports>
+  <reports>Report.ВКМ_АнализВыставленныхАктов</reports>
   <dataProcessors>DataProcessor.АвтоматическоеИзвлечениеТекстов</dataProcessors>
   <dataProcessors>DataProcessor.ВводКонтактнойИнформации</dataProcessors>
   <dataProcessors>DataProcessor.ГрупповоеИзменениеРеквизитов</dataProcessors>
@@ -1407,6 +1409,7 @@
   <accumulationRegisters>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ВКМ_ПлановыеОтпуска</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.ВКМ_ВыставленныеУслуги</accumulationRegisters>
   <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ДополнительныеРеквизитыИСведения</chartsOfCharacteristicTypes>
   <chartsOfCalculationTypes>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</chartsOfCalculationTypes>
   <chartsOfCalculationTypes>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</chartsOfCalculationTypes>
