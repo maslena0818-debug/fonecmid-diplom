@@ -18,6 +18,13 @@
 		</right>
 	</object>
 	<object>
+		<name>Catalog.Контрагенты</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Catalog.Пользователи</name>
 		<right>
 			<name>Read</name>
@@ -51,9 +58,23 @@
 		</right>
 	</object>
 	<object>
+		<name>Document.ВКМ_ОбслуживаниеКлиента</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Subsystem.ВКМ_ДобавленныеОбъекты.Subsystem.ВКМ_ОбслуживаниеКлиентов</name>
 		<right>
 			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Catalog.ДоговорыКонтрагентов</name>
+		<right>
+			<name>Read</name>
 			<value>true</value>
 		</right>
 	</object>

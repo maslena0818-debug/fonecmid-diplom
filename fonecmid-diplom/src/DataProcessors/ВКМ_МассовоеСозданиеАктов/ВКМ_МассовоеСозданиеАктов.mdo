@@ -25,11 +25,11 @@
     </type>
     <format>
       <key>ru</key>
-      <value>ДФ='MMMM yyyy'</value>
+      <value></value>
     </format>
     <editFormat>
       <key>ru</key>
-      <value>ДФ='MMMM yyyy'</value>
+      <value></value>
     </editFormat>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>

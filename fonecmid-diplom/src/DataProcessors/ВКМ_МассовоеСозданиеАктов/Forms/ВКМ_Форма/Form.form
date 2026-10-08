@@ -36,6 +36,10 @@
       <autoMaxHeight>true</autoMaxHeight>
       <wrap>true</wrap>
       <extendedEditMultipleValues>true</extendedEditMultipleValues>
+      <editFormat>
+        <key>ru</key>
+        <value></value>
+      </editFormat>
       <chooseType>true</chooseType>
       <typeDomainEnabled>true</typeDomainEnabled>
       <textEdit>true</textEdit>
