@@ -70,6 +70,13 @@
 		</right>
 	</object>
 	<object>
+		<name>Subsystem.ВКМ_ДобавленныеОбъекты</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Catalog.Номенклатура</name>
 		<right>
 			<name>Read</name>
@@ -141,6 +148,13 @@
 			<name>Read</name>
 			<value>true</value>
 		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Subsystem.ВКМ_ДобавленныеОбъекты.Subsystem.ВКМ_ОбслуживаниеКлиентов</name>
 		<right>
 			<name>View</name>
 			<value>true</value>
