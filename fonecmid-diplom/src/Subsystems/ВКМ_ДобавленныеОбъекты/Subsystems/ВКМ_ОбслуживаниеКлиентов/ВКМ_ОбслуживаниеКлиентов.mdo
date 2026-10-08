@@ -22,5 +22,8 @@
   <content>AccumulationRegister.ВКМ_ВыставленныеУслуги</content>
   <content>Report.ВКМ_АнализВыставленныхАктов</content>
   <content>Role.ВКМ_ОтчетАнализВыставленныхАктов</content>
+  <content>Role.ВКМ_ОтчетВыработкаСпециалистов</content>
+  <content>Role.ВКМ_РаботаСОбслуживаниемКлиента</content>
+  <content>ScheduledJob.ВКМ_ОтправкаУведомленийТелеграм</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>
