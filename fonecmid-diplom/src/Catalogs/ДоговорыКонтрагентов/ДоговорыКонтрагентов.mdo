@@ -240,7 +240,7 @@
     <name>ВКМ_ФормаЭлемента</name>
     <synonym>
       <key>ru</key>
-      <value>Ворма элемента</value>
+      <value>Форма элемента</value>
     </synonym>
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
